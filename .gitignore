@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.so
+*.dylib
+*.pt
+*.onnx
+.env
+.DS_Store
