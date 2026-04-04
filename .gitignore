@@ -1,0 +1,32 @@
+# Python
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets
+.env
+**/.env
+
+# AI weights
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Runtime outputs
+snapshots/
+rtsp_snapshots/
+AI/snapshots/
+AI/rtsp_snapshots/
+
+# Frontend
+node_modules/
+dist/
+build/
+
+# OS / editor
+.DS_Store
+.vscode/
